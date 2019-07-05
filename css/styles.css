@@ -1,0 +1,40 @@
+
+body {
+  background-color: #e0ffff;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+color: #66bfbf;
+
+}
+
+h3
+{
+  color: #66bfbf;
+}
+
+.picture{
+  border-radius: 100%;
+  margin-right: 25px;
+}
+.bottom-container{
+padding: 50px 0 20px;
+text-align: center;
+}
+
+a{
+  color: #11999E;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
